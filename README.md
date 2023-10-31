@@ -1,7 +1,9 @@
 # Skytrax Data Warehouse
 A full data warehouse infrastructure with ETL pipelines running inside docker on Apache Airflow for data orchestration, AWS Redshift for cloud data warehouse and Metabase to serve the needs of data visualizations such as analytical dashboards. 
 
-![skytrax-warehouse](imgs/skytrax-warehouse.png)
+
+ ![skytrax-warehouse](imgs/skytrax-warehouse.png)
+
 
 ## Architecture 
 ![Architecture](imgs/architecture1.png)
