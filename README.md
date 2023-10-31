@@ -57,7 +57,7 @@ You can follow the AWS [Guide](https://docs.aws.amazon.com/redshift/latest/gsg/r
 
 ## How to run 
 
-#### Airflow
+### Airflow
 Make sure docker containers are running. 
 Open the Airflow UI by hitting http://localhost:8080 in browser and setup required connections.
 
@@ -69,27 +69,27 @@ Skytrax Pipeline DAG
 
 You can explore dag further in different views like below:
 
-DAG View:
+### DAG View:
 ![DAG](imgs/dag.PNG)
 
-DAG Tree View:
+### DAG Tree View:
 ![DAG Tree](imgs/treeview.PNG)
 
-DAG Gantt View: 
+### DAG Gantt View: 
 ![DAG Gantt View](imgs/gantt.PNG)
 
 
-#### Metabase
+## Metabase
 
 Make sure docker containers are running. 
 Open the Metabase UI by hitting http://localhost:3000 in browser & setup your metabase account and database.
 
 You should be able to play with data after running dag successfully like I made dashboard in pictures below:
 
-Dashboard1:
+### Dashboard 1:
 ![DAG](imgs/dashboard1.png)
 
-Dashboard2:
+### Dashboard 2:
 ![DAG Tree](imgs/dashboard2.png)
 
 ## Scenarios
@@ -110,7 +110,7 @@ Dashboard2:
 
 ## Authors
 
-* **[Muhammad Haseeb](https://github.com/iam-mhaseeb)**
+* **[Debargho Basak](https://github.com/Debargho99)**
 
 
 ## License
